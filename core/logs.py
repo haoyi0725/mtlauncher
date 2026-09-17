@@ -1,0 +1,1 @@
+# Minecraft latest.log / crash-report 分析預留。
