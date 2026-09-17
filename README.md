@@ -6,3 +6,16 @@
 幫我想想還能寫什麼？
 
 ヾ(≧▽≦*)o
+
+## Code signing policy
+
+Free code signing provided by SignPath.io, certificate by SignPath Foundation.
+
+### Code signing roles
+
+- Committers and reviewers: MtLauncher maintainers
+- Approvers: MtLauncher project owner
+
+### Privacy policy
+
+This program will not transfer any information to other networked systems unless specifically requested by the user or the person installing or operating it.
